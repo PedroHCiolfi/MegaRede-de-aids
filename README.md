@@ -1,0 +1,1 @@
+--!> Muitas fezes, faz qualquer coisa e adicione qualquer coisa <!--

@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanalei&display=swap');
+
+body{
+	margin: 0px;
+}
+a {
+	color: white;
+}
+
+input:hover{
+	border-color: deeppink;
+}
+
+input:focus{
+	background-color: lightcyan;
+	color: red;
+	font-size: 60px;
+	font-family: "Hanalei", system-ui;
+}
+
+label:hover{
+	font-size: 400px;
+}
+
+table:hover{
+	background-color: pink;
+	color: green;
+	font-size: 1px;
+}
+
+nav{
+	background-color: hotpink;
+	padding-top: 0px;
+	padding-bottom: 20px;
+	font-size: 100px;
+	width: 100%;
+	padding: calc(100px-padding);
+}
+
+nav a:hover{
+	color: pink;
+	font-weight: bold;
+	font-size: 300px;
+}
+
+div {
+	color: darkorange;
+	padding: 50px;
+	background-color: rgba(173, 255, 47, 0.5);
+	font-size: 15px;
+	border: 1px;
+	border-color: red;
+	width: 500px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+	border-top-style: inset;
+	border-bottom-style: ridge;
+	border-right-style: dashed;
+	border-left-style: dotted;
+	border-left-color: red;
+	border-right-color: blanchedalmond;
+	border-top-color: black;
+	border-bottom-color: darkorange;
+	border-top-width: 100px;
+	border-bottom-width: 2px;
+	border-left-width: 30px;
+	border-right-width: 200px;
+	border-top-right-radius: 1000px;
+	border-top-left-radius: 30px;
+	border-bottom-left-radius: 50px;
+	border-bottom-right-radius: 300px;
+}
+
+div:hover {
+	background-color: powderblue;
+	font-size: 30px;
+}
+
+div h1 {
+	font-size: 40px;
+	color: rebeccapurple;
+	text-align: center;
+}
+
+div a{
+	color: brown;
+	font-size: 30px;
+}
